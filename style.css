@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.name-higlite{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.name-higlite h1{
+    font-size: 50px;
+}
+.half-width img{
+    width: 100%;
+}
